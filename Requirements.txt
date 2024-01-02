@@ -1,0 +1,16 @@
+Needs:
+Keyboard Library
+Mouse Library
+Time Library
+
+
+Installs:
+
+	Keyboard:
+		pip install keyboard
+
+	Mouse:
+		pip install mouse
+
+	Time:
+		pip install time
