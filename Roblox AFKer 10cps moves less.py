@@ -53,6 +53,3 @@ def MainScriptFunct():
             print("retry:")
             MainScriptFunct()
 MainScriptFunct()
-
-#//////////////////////////////////////////////////////////////////////////////////////
-#                    Made by Hayden with help from Lucas!
